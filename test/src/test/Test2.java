@@ -21,8 +21,10 @@ public class Test2
 	public static void main(String[] args)
 	{
 		String str="11234343";
+		System.out.println(str.matches("234{1,12}"));
 		System.out.println(str.matches("[0-9]{1,12}"));
-		
+		System.out.println(str.matches("[0-9]{1,12}"));
+		System.out.println(str.matches("[0-9]{1,12}"));
 		
 		
 	}
