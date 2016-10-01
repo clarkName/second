@@ -36,6 +36,8 @@ public class CountNumber
 	{
 		CountNumber obj = new CountNumber();
 		obj.nums = obj.getNetMessage();
+		2323
+		232
 		obj.countAppearNums();
 	//	obj.appearCombination3();
 	//	obj.appearCombination4();
