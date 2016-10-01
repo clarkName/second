@@ -318,11 +318,11 @@ public class CountNumber
 		{
 			try
 			{
-//				if (flag)
-//				{
-//					Thread.sleep(600000);
-//					flag = true;
-//				}
+				if (flag)
+				{
+					Thread.sleep(600000);
+					flag = true;
+				}
 
 			//	nums1 = getNetMessage();
 				String curNum = nums1.get(nums1.size() - 1);
