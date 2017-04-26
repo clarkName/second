@@ -25,7 +25,7 @@ public class Test2
 		System.out.println(str.matches("[0-9]{1,12}"));
 		System.out.println(str.matches("[0-9]{1,12}"));
 		System.out.println(str.matches("[0-9]{1,12}"));
-		
+		12334
 		
 	}
 }
