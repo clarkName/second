@@ -12,7 +12,7 @@ public class DynamicProxy
          
     proxySubject.doSomething();
    
-    //write proxySubject class binary data to file   
+    write proxySubject class binary data to file   
   }   
      
 }
